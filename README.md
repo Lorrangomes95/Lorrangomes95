@@ -27,3 +27,5 @@
 ![SASS](https://img.shields.io/badge/SASS-282C34?logo=sass)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css)
 ![Styled components](https://img.shields.io/badge/Styled%20components-282C34?logo=styled-components)
+
+![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamedeirosp&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
