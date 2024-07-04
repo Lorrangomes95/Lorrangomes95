@@ -31,3 +31,6 @@
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamedeirosp&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
 
 ![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=jessicamedeirosp&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+
+
+![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake.svg)
