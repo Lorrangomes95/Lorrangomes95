@@ -33,4 +33,4 @@
 ![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=jessicamedeirosp&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 
-![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Kakariko2000/Kakariko2000/blob/output/github-contribution-grid-snake.svg)
