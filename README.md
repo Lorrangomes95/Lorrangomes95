@@ -1,4 +1,4 @@
-# :sparkles: Seja bem-vindo(a)! :vulcan_salute:
+# :sparkles: Seja bem-vindo(a)! ✌🏻
 
 ![](https://komarev.com/ghpvc/?username=jessicamedeirosp&color=000000)
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=jessicamedeirosp&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/jessicamedeirosp?label=Follow&style=social)
