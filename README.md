@@ -11,6 +11,8 @@
 ### Redes Sociais
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/lorran-gomes95/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-brightgreen?link=https%3A%2F%2Florrangtec.netlify.app%2F
+)](https://lorrangtec.netlify.app/)
 
 ### Linguagens
 
@@ -24,7 +26,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-282C34?logo=node.js)
 ![React](https://img.shields.io/badge/React-282C34?logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-282C34?logo=next.js)
-![SASS](https://img.shields.io/badge/SASS-282C34?logo=sass)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css)
 ![Styled components](https://img.shields.io/badge/Styled%20components-282C34?logo=styled-components)
 
