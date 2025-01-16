@@ -12,7 +12,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/lorran-gomes95/)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-brightgreen?link=https%3A%2F%2Florrangtec.netlify.app%2F
-)](https://lorrangtec.netlify.app/)
+)](https://lorranport.netlify.app/)
 
 ### Linguagens
 
